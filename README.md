@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/codeByKelvinn/osticket-prereqs/tree/main#readme)
   - [osTicket: Post-Installation Configuration](https://github.com/codeByKelvinn/post-installation-config/blob/main/readme.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/codeByKelvinn/ticket-life-cycles)
 - <b>Microsoft Azure</b>
   - [Creating a VPN](https://github.com/codeByKelvinn/creating-a-VPN/blob/main/README.md)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/codeByKelvinn/configure-on-premises-active-directory-/blob/main/README.md)
