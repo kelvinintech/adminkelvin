@@ -12,6 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/codeByKelvinn/nsgs-and-inspecting-traffic-on-azure/blob/main/README.md)
   - <br />
   <b>Security Fundamentals</b>
+  <h3>(coming soon)</h3>
 
 <h2>🤳Connect with me:</h2>
 
