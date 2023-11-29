@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/codeByKelvinn/configure-on-premises-active-directory-/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/codeByKelvinn/nsgs-and-inspecting-traffic-on-azure/blob/main/README.md)
   - <br />
-  <b>Security Fundamentals</b>
+  <b>Security+ Training</b>
   <h3>(coming soon)</h3>
 
 <h2>🤳Connect with me:</h2>
